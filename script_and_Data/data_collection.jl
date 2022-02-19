@@ -18,7 +18,7 @@ coordinates = OrderedDict(
 function get_data(starts, ends)
     url = "https://api.external.citymapper.com/api/1/traveltimes"
     headers = Dict(
-        "Citymapper-Partner-Key" => "XyQKKDAV4RFYfxsLbhUU9iIbxxAlZgrt",
+        "Citymapper-Partner-Key" => "{yourapikey}",
         "traveltime_types" => "transit",
         "start" => coordinates[starts],
         "end" => coordinates[ends],
