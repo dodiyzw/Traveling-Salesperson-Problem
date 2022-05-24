@@ -10,7 +10,7 @@ Because the number of nodes in this project is small ( n = 7), this project uses
 ---
 ### Visualization of shortest path found 
 <p>
-    <img src="Plots/final_path.jpg?raw=true" width="800" height="600" />
+    <img src="Plots/final_path.png?raw=true" width="800" height="600" />
 </p>
 
 ---
